@@ -1,3 +1,3 @@
 # InteractionG
 page link 
-https://hyungyu07.github.io/InteractionG/
+https://hyungyu627.github.io/InteractionG/
